@@ -55,7 +55,14 @@ PROJECT_TAGLINE = (
     "or hands it to a four-stage agent pipeline that searches the web, "
     "extracts the best source, drafts a report, and critiques its own output."
 )
-TECH_STACK = ["Python", "LangChain", "LangGraph", "Streamlit"]
+TECH_STACK = [
+    "Python",
+    "LangChain",
+    "Groq",
+    "Tavily",
+    "BeautifulSoup",
+    "Streamlit"
+]
 
 # id -> (role text shown in sidebar, accent color used everywhere for that stage)
 STEPS = [
