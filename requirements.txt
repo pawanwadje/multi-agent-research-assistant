@@ -1,0 +1,38 @@
+# LLM
+langchain-groq
+groq
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# Agents / Graph
+langgraph
+langgraph-prebuilt
+
+# Tavily
+tavily-python
+langchain-tavily
+
+# BeautifulSoup
+beautifulsoup4
+requests
+lxml
+
+# Environment
+python-dotenv
+
+# Data validation
+pydantic
+typing-extensions
+
+# HTTP / Async
+httpx
+aiohttp
+
+# PDF processing (only if needed)
+pypdf
+
+streamlit
+pydantic
