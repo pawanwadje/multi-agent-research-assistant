@@ -7,6 +7,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-Choose%20One-lightgrey)
 
+## 🚀 Live Demo
+
+**Try the application here:** [Multi-Agent AI Research Assistant](https://multi-agent-research-assistant-yfb4edjrrmubn8tbim4o53.streamlit.app/)
+
+Explore the live application to see the multi-agent research pipeline in action.
+
+
 > An agentic AI system that routes each user query to either a direct conversational response or a four-stage autonomous research pipeline — searching the web, scraping the most relevant source, drafting a structured report, and independently critiquing that report's quality.
 
 ---
